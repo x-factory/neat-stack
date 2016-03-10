@@ -22,7 +22,7 @@ Technology Choices for NEAT app
 - Easy to configure, powerful
 - Works well with Nodejs
 
-### WSGI framework - [ExpressJS](http://expressjs.com/)
+### Web API framework - [ExpressJS](http://expressjs.com/)
 - Easy to use for building RESTful API
 
 ### Database - [MongoDB](https://www.mongodb.org/)
