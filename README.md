@@ -25,9 +25,12 @@ Technology Choices for NEAT app
 ### Web API framework - [ExpressJS](http://expressjs.com/)
 - Easy to use for building RESTful API
 
-### Database - [MongoDB](https://www.mongodb.org/)
-- Fast data retrieval
-- Easy to use
+### Database - [Postgresql](http://www.postgresql.org/)
+- Open source relational database
+- Powerful features
+
+### ORM - [Sequelize](http://docs.sequelizejs.com/en/latest/)
+- Promise-based ORM that works with different database dialects
 
 ## External APIs
 ### Map - [Google Map API](https://developers.google.com/maps/documentation/javascript/)
