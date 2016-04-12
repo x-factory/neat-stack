@@ -14,7 +14,7 @@ Technology Choices for NEAT app
 - Make CSS organized with variables support
 
 ## Back-end
-### Server - [Digital Ocean](digitalocean.com)
+### Server - [Digital Ocean](https://www.digitalocean.com/)
 - No down time unlike Heroku's free tier
 - Flexible server configuration
 
